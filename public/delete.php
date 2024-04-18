@@ -69,7 +69,7 @@ if(isset($_POST["product_id"]) && !empty($_POST["product_id"])){
                         </div>
                     </form>
                 </div>
-            </div>        
+            </div>          
         </div>
     </div>
 </body>
